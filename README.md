@@ -4,7 +4,7 @@
 
 Exploring the Seven Wonders of the World is like taking a journey through history and marveling at human ingenuity and natural beauty. Here's a brief overview of these iconic landmarks:
 
-Great Wall of China 🇨🇳
+Great Wall of China 🇨🇳 <br>
 A monumental feat of engineering stretching over 13,000 miles, originally built to protect Chinese states from invasions.
 
 Petra, Jordan 🇯🇴
