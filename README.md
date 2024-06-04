@@ -4,16 +4,16 @@
 
 Exploring the Seven Wonders of the World is like taking a journey through history and marveling at human ingenuity and natural beauty. Here's a brief overview of these iconic landmarks:
 
-### Great Wall of China 🇨🇳 <br>
+1. ### Great Wall of China 🇨🇳 <br>
 A monumental feat of engineering stretching over 13,000 miles, originally built to protect Chinese states from invasions.
 
-### Petra, Jordan 🇯🇴 <br >
+- ### Petra, Jordan 🇯🇴 <br >
 An archaeological city famous for its rock-cut architecture and water conduit system, known as the Rose City due to the color of the stone.
 
-### Christ the Redeemer, Brazil 🇧🇷  <br>
+- ### Christ the Redeemer, Brazil 🇧🇷  <br>
 An iconic statue of Jesus Christ in Rio de Janeiro, standing 98 feet tall atop the Corcovado Mountain, symbolizing peace and welcoming visitors with open arms.
 
-### Machu Picchu, Peru 🇵🇪  <br>
+- ### Machu Picchu, Peru 🇵🇪  <br>
 An ancient Incan city nestled in the Andes Mountains, renowned for its archaeological significance and breathtaking panoramic views.
 
 ### Chichen Itza, Mexico 🇲🇽 <br>
