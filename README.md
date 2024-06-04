@@ -25,4 +25,6 @@ An ancient amphitheater in the heart of Rome, known for its grandeur and the gla
 ### 7. Taj Mahal, India 🇮🇳 <br>
 A stunning mausoleum built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, celebrated for its magnificent architecture and intricate marble inlays.
 
+Checkout here: https://ajayd17.github.io/Sevenwonders.github.io/
+
 #SevenWonders #Travel #History #CulturalHeritage #Exploration
